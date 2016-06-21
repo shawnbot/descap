@@ -1,6 +1,6 @@
 {
   "name": "descap",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Create Selenium desired capabilities objects from shorthand strings",
   "main": "index.js",
   "scripts": {
