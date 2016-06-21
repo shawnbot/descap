@@ -11,7 +11,7 @@
     "desired",
     "capabilities"
   ],
-  "author": "Shawn Allen <shawn.allen@gsa.gov>",
+  "author": "Shawn Allen (https://github.com/shawnbot)",
   "license": "CC0-1.0",
   "dependencies": {
     "object-assign": "^4.1.0"
