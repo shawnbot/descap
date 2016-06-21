@@ -15,7 +15,7 @@ spec with [descap.parse](#descap-parse).
 
 ### `descap.parse(str)`
 Parse a string into a single desired capabilities object, according
-to the [expected format].
+to the [expected format](#expected-format).
 
 ## Expected Format
 The format of expected strings is:
