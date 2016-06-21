@@ -1,0 +1,19 @@
+{
+  "name": "descap",
+  "version": "1.0.0",
+  "description": "Create Selenium desired capabilities objects from shorthand strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "selenium",
+    "desired",
+    "capabilities"
+  ],
+  "author": "Shawn Allen <shawn.allen@gsa.gov>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "object-assign": "^4.1.0"
+  }
+}
