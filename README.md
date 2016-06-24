@@ -2,7 +2,9 @@
 descap generates Selenium-friendly "desired capabilities" objects from
 human-friendly strings. It support browser name shorthands (like
 `ie`), version numbers and ranges (`48..52`), and other arbitrary
-parameters via query strings.
+parameters via query strings. The idea is to make it ease configuration
+of other Selenium-oriented testing tools (such as [WebDriverIO]) for
+one-off runs that target specific browsers.
 
 ## API
 
@@ -55,3 +57,5 @@ assert.deepEqual(descap('chrome@52..54'), [
 ]);
 ```
 
+
+[WebDriverIO]: http://webdriver.io/
