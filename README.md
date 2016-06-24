@@ -53,7 +53,5 @@ assert.deepEqual(descap('chrome@52..54'), [
     version: 54
   }
 ]);
-
-assert.deep
 ```
 
